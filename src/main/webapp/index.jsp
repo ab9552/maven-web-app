@@ -1,11 +1,37 @@
-<html>
+<!DOCTYPE html
+<!-- Created By CodeWithNepal - www.codewithnepal.com -->
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!------<title>Business Website Design | CodeWithNepal</title>------>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
+   </head>
 <body>
-<h1><font color='red'>Helcome to EncisorTechology new run font></h1>
-<h2>Learn Here.. Infio.!! </h2>
-
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
-  
-  <h2> Call Us : + 91 - 99 85 39 66 77 </h2>
-
+  <nav>
+    <div class="menu">
+      <div class="logo">
+        <a href="#">Faucongz</a>
+      </div>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Contact</a></li>
+        <li><a href="#">Support</a></li>
+      </ul>
+    </div>
+  </nav>
+  <div class="img"></div>
+  <div class="center">
+    <div class="title">Game Development Studio</div>
+    <div class="sub_title">Let's make a Game.</div>
+    <div class="btns">
+      <button>Learn More</button>
+      <button>Download</button>
+    </div>
+  </div>
 </body>
 </html>
+
