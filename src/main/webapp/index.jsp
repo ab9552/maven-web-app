@@ -12,7 +12,7 @@
   <nav>
     <div class="menu">
       <div class="logo">
-        <a href="#">Faucongz</a>
+        <a href="#">Encisor Technology</a>
       </div>
       <ul>
         <li><a href="#">Home</a></li>
